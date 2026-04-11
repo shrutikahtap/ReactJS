@@ -7,8 +7,8 @@ console.log(h1);
 const a = 5;
 console.log(a);
 
-import hi from './app.js';
-console.log(hi);
+import milton from './app.js';
+console.log(milton);
 
 var h2=document.createElement('div');
 h2.textContent = 'Radhe Radhe';
